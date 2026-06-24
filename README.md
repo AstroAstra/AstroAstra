@@ -12,8 +12,5 @@ Background in: Data reduction & analysis · Scientific image processing · High-
 <br/>
 <br/>
 ## Projects
-<br/>
-**[NASA Exoplanet Archive — Data Explorer](https://github.com/AstroAstra/NASA_Exoplanet_Explorer)**  
-Python + SQL analysis of 6,298 confirmed exoplanets. Covers discovery methods, 
-historical trends, size demographics, and habitable zone candidates. Built with 
-pandas, matplotlib, seaborn, and SQLite.
+[NASA Exoplanet Archive: Data Explorer](https://github.com/AstroAstra/NASA_Exoplanet_Explorer)  
+Python + SQL analysis of 6,298 confirmed exoplanets. Covers discovery methods, historical trends, size demographics, and habitable zone candidates. Built with pandas, matplotlib, seaborn, and SQLite.
