@@ -6,7 +6,7 @@ I'm completing an M.S. in Space Studies (Earth & Planetary Science) at APUS, wit
 <br/>
 Current focus: Building data analysis projects at the intersection of planetary science and remote sensing. See my NASA Exoplanet Archive Explorer project below.
 <br/>
-Tools I work with: Python · SQL · SQLite · pandas · matplotlib · seaborn · EXOTIC · Aladin · JMARS · MATLAB · Google Colab · LaTeX · Linux
+Tools I work with: Python · SQL · SQLite · pandas · numpy · scipy · matplotlib · seaborn · EXOTIC · Aladin · JMARS · MATLAB · Google Colab · LaTeX · Linux
 <br/>
 Background in: Data reduction & analysis · Scientific image processing · High-volume data workflows · Remote collaboration
 <br/>
@@ -14,3 +14,8 @@ Background in: Data reduction & analysis · Scientific image processing · High-
 ## Projects
 [NASA Exoplanet Archive: Data Explorer](https://github.com/AstroAstra/NASA_Exoplanet_Explorer)  
 Python + SQL analysis of 6,298 confirmed exoplanets. Covers discovery methods, historical trends, size demographics, and habitable zone candidates. Built with pandas, matplotlib, seaborn, and SQLite.
+<br/>
+**[NASA GISS Temperature Analysis](https://github.com/AstroAstra/NASA_GISS_Temperature_Analysis)**  
+Python and pandas analysis of 146 years of global surface temperature data. 
+Covers long-term trends, decade-by-decade acceleration, seasonal warming 
+patterns, and a full monthly heatmap encoding 1,752 data points.
