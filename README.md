@@ -4,13 +4,13 @@ Hi, I'm Emma. I'm a scientific data analyst with a background in Earth and Plane
 I work with Python-based data pipelines, astronomical datasets, and scientific image analysis. Currently contributing to NASA's Exoplanet Watch program, where I reduce telescope observations, generate exoplanet transit light curves using the EXOTIC pipeline, and upload validated results to the AAVSO Exoplanet Database.
 <br/>
 <br/>
-I'm completing an M.S. in Space Studies (Earth & Planetary Science) at APUS, with research focused on exoplanet atmospheric characterization.
+I'm completing an MSc in Space Studies (Earth & Planetary Science) at APUS, with research focused on exoplanet atmospheric characterization.
 <br/>
 <br/>
-Current focus: Building data analysis projects at the intersection of planetary science and remote sensing. See my NASA Exoplanet Archive Explorer and NASA GISS Temperature Analysis projects below.
+Current focus: Building data analysis projects at the intersection of planetary science and remote sensing. See my project portfolio below.
 <br/>
 <br/>
-Tools I work with: Python · SQL · SQLite · pandas · numpy · scipy · matplotlib · seaborn · Plotly · Cartopy · GeoPandas · EXOTIC · Aladin · JMARS · MATLAB · Google Colab · LaTeX · Linux
+Tools I work with: Python · SQL · SQLite · pandas · numpy · scipy · matplotlib · seaborn · Plotly · Cartopy · GeoPandas · Google Earth Engine · geemap · Pillow · EXOTIC · Aladin · JMARS · MATLAB · Google Colab · LaTeX · Linux
 <br/>
 <br/>
 Background in: Data reduction & analysis · Scientific image processing · High-volume data workflows · Remote collaboration
@@ -29,7 +29,13 @@ patterns, and a full monthly heatmap encoding 1,752 data points.
 Interactive Plotly dashboard exploring 6,298 confirmed exoplanets. Four 
 interactive charts including an animated discovery timeline from 1992 to 2026.
 <br/>
-**[NASA GISTEMP Geospatial Analysis](https://github.com/AstroAstra/NASA_GISTEMP_Geospatial_Analysis)**  
+**[NASA GISTEMP Geospatial Analysis](https://github.com/AstroAstra/NASA_GISTEMP_Geospatial_Analysis)** 
 Geospatial analysis of Arctic amplification using Cartopy and GeoPandas. 
 Maps warming across 8 latitude bands from 1880 to 2025 with Robinson 
 projection world maps and hemispheric divergence analysis.
+<br/>
+**[Athabasca Glacier Retreat Analysis](https://github.com/AstroAstra/Athabasca_Glacier_Retreat_Analysis)**  
+Satellite-based analysis of Athabasca Glacier retreat using Landsat imagery and 
+Google Earth Engine. Covers surface area change, a clean-ice boundary retreat 
+proxy, an animated 40-year time-lapse, and correlation with global temperature 
+trends.
